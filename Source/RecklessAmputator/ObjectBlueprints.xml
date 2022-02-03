@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<object Name="BaseAxe" Load="Merge">
+		<part Name="Amputator" />
+	</object>
+	<object Name="BaseLongBlade" Load="Merge">
+		<part Name="Amputator" />
+	</object>
+</objects>
