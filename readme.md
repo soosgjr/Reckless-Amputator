@@ -38,6 +38,13 @@ requires passing a willpower-based stat check.
 The mod was developed for version 2.0.202.104 of Caves of Qud.
 
 
+## Development
+
+The included project file expects the `Assembly-CSharp.dll` from your Caves of
+Qud installation to be copied to the `Source` folder during development in order
+to enable IntelliSense support in Visual Studio.
+
+
 ## Credits
 
 The axe and blood splatter icons used for the logo were made by Freehold Games.
